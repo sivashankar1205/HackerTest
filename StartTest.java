@@ -14,7 +14,8 @@ public class StartTest {
 		for (int j= 0; j<n; j++){
 			int a = sc.nextInt();
 			int b = sc.nextInt();
-			System.out.println(a+b);
+			int c = sc.nextInt();
+			System.out.println(a+b+c);
 		}
 	}
 
